@@ -1,2 +1,0 @@
-# componentShifting
-Created with CodeSandbox

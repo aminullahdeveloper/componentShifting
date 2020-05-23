@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html, body {
+  margin: 0;
+  box-sizing: border-box;
+  }
+  
+  .first {
+  background: #CCDD00DD;
+  }
+  
+  .second {
+  background: #AADD00DD;
+  overflow: scroll;
+  }
+
+  
